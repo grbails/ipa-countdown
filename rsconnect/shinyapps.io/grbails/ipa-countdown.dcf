@@ -1,0 +1,13 @@
+name: ipa-countdown
+title: ipa-countdown
+username:
+account: grbails
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3032118
+bundleId: 3763624
+url: https://grbails.shinyapps.io/ipa-countdown/
+when: 1603220237.92653
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: check_phone_counts.R|convert-ipa.csv|www/.DS_Store
